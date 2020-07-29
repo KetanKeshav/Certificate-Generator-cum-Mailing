@@ -3,9 +3,9 @@
 Automation script for Generating Certificates and mailing them by using content from an excel file
 
 # Dependencies needed:
-pip install Pillow
-pip install qrcode
-pip install xlrd
+1. pip install Pillow
+2. pip install qrcode
+3. pip install xlrd
 
 # Change the path names for the below accordingly
 
