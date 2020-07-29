@@ -22,4 +22,4 @@ Automation script for Generating Certificates and mailing them by retrieving dat
 
 # Please Enter to Exit
 
-# Note : It will be more convenient if all files are part of the same folder
+Note : It will be more convenient if all files are part of the same folder
