@@ -1,6 +1,6 @@
 # Automated Certificate Generator and Mailing using Python
 
-Automation script for Generating Certificates and mailing them by using content from an excel file
+Automation script for Generating Certificates and mailing them by retrieving data from an excel file
 
 # Dependencies needed:
 
@@ -19,6 +19,7 @@ Automation script for Generating Certificates and mailing them by using content 
 3. img.save(r"C:\Users\ketan\Desktop\emailcertificate\\"+fname+".pdf", "PDF", resolution=100.0)
 
 # Run, enter path of excel file 
-Better if all the files are part of the same folder
 
 # Please Enter to Exit
+
+# Note : It will be more convenient if all files are part of the same folder
