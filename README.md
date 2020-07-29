@@ -1,13 +1,13 @@
-#Automated Certificate Generator and Mailing using Python
+# Automated Certificate Generator and Mailing using Python
 
 Automation script for Generating Certificates and mailing them by using content from an excel file
 
-#Dependencies needed:
+# Dependencies needed:
 pip install Pillow
 pip install qrcode
 pip install xlrd
 
-#Change the path names for the below accordingly
+# Change the path names for the below accordingly
 
 1. selectFont = ImageFont.truetype(r'C:\Users\ketan\Desktop\emailcertificate\font.ttf', 65)
 
