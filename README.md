@@ -15,8 +15,9 @@ pip install xlrd
 
 3. img.save(r"C:\Users\ketan\Desktop\emailcertificate\\"+fname+".pdf", "PDF", resolution=100.0)
 
-#Run the program 
+# Run the program 
 
-#Enter Path of Excel File (better if all the files are part of the same folder)
+# Enter Path of Excel File 
+Better if all the files are part of the same folder
 
-#Please Enter to Exit
+# Please Enter to Exit
