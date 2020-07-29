@@ -5,7 +5,6 @@ import xlrd
 import qrcode
 import time
 import smtplib
-import xlrd
 from email.message import EmailMessage
 
 def main():
