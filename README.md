@@ -18,9 +18,7 @@ Automation script for Generating Certificates and mailing them by using content 
 
 3. img.save(r"C:\Users\ketan\Desktop\emailcertificate\\"+fname+".pdf", "PDF", resolution=100.0)
 
-# Run the program 
-
-# Enter Path of Excel File 
+# Run, enter Path of Excel File 
 Better if all the files are part of the same folder
 
 # Please Enter to Exit
