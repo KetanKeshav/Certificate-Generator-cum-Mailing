@@ -9,7 +9,7 @@ from email.message import EmailMessage
 
 def main():
     server=smtplib.SMTP_SSL("smtp.gmail.com",465)
-    server.login("finalyearprojectsbyhashpool@gmail.com","ksit@123")
+    server.login("your-email-id","your-password")
     
     path=input("Enter Path of Excel File\n")
     wb = xlrd.open_workbook(path) 
